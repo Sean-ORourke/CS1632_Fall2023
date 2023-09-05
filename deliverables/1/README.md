@@ -13,7 +13,7 @@ Fall Semester 2023
 
 * DUE: September 25 (Monday), 2023 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/PobXjcjb
 
 ## Description
 

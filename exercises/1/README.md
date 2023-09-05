@@ -15,7 +15,7 @@ Fall Semester 2023 - Exercise 1
 
 * DUE: September 11 (Monday), 2023 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/fXJOtXM-
 
 This is going to be your first group assignment.  When you click on the GitHub
 Classroom link, you will be asked to either create a new team or join an
@@ -327,7 +327,7 @@ discuss.  Once you are both satisfied, you may submit.
 
 ## Extra Credit
 
-* DUE: July 11 (Tuesday), 2023 11:30 AM
+* DUE: September 25 (Monday), 2023 before start of class
 
 This submission is optional.  An extra credit of 1 point out of 100 points for
 the entire course will be awarded to the group that finds the most number of

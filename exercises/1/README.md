@@ -114,7 +114,7 @@ The IDENTIFIER is some value which will uniquely specify the test case.  We
 learned it can be either a number, or a more descriptive label (e.g.
 TEST-INVALID-TIMES, TEST-LOW-NUM-TIMES, etc.).  For this exercise, please use a
 descriptive label.  Please refer to [Lecture 4: Test
-Plans](../../lectures/CS1632_Lecture4_Test_Plans.pdf) Slides 14 - 15 for more
+Plans](../../lectures/CS1632_Lecture4_Test_Plans.pdf) Slides 11 - 12 for more
 details and examples for each item.
 
 PRECONDITIONS is the **state of the system before performing the test**.  If
@@ -149,8 +149,9 @@ postconditions.  That is because screenshots typically contain extra
 information beyond what is required for correctness (e.g. the font of the text,
 coloring, decorative images or text that is not strictly required).
 
-Please read [tips.md](tips.md) for additional hints on how to properly document
-test cases.
+Please review the various pitfalls described in the [Lecture 4: Test
+Plans](../../lectures/CS1632_Lecture4_Test_Plans.pdf) lecture to avoid falling
+into them while doing the exercise.
 
 ## Creating a Traceability Matrix
 

@@ -13,7 +13,7 @@
 # CS 1632 - Software Quality Assurance
 Fall Semester 2023 - Exercise 1
 
-* DUE: September 11 (Monday), 2023 before start of class
+* DUE: September 13 (Wednesday), 2023 before start of class
 
 **GitHub Classroom Link:** https://classroom.github.com/a/fXJOtXM-
 

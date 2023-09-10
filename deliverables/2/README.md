@@ -17,7 +17,7 @@ Fall Semester 2023
 
 * DUE: October 2, 2023 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/dRCTlh2P
 
 ## Deliverable 2
 

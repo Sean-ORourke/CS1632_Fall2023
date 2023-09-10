@@ -21,7 +21,7 @@ Fall Semester 2023 - Exercise 2
 
 * DUE: September 15 (Friday), 2023 11:59 PM
 
-**GitHub Classroom Link:** https://classroom.github.com/a/RI8rV2Yt
+**GitHub Classroom Link:** TBD
 
 ## Before You Begin
 

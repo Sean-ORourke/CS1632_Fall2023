@@ -128,9 +128,9 @@ feedback on mistakes you made so that you don't make the same mistakes on your
 deliverables.  Since exercises are unscored, you are free to discuss them with
 your classmates, including sharing each other's code.
 
-Exercises will be **released on Tuesday** in class.  You will be given time
-in-class on Tuesday to complete it and if you don't, you can keep working on
-it on Thursday as well.  On Thursday, we will discuss the exercise and you
+Exercises will be **released on Monday** in class.  You will be given time
+in-class on Monday to complete it and if you don't, you can keep working on
+it on Thursday as well.  On Wedneday, we will discuss the exercise and you
 will have a chance to ask questions if you had any difficulties.  This is
 also the day when the deliverable associated with the exercise will be
 released (if any).  You can finish up the exercise and **submit by Friday

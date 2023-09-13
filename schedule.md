@@ -30,7 +30,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2: Discuss Exercise 2 / Release Deliverable 2
   * Prerequisite: Test-driven Development Lecture (READING: AFIST, Chapter 15)
 
-## WEEK 4 (Week of 18 sEP)
+## WEEK 4 (Week of 18 SEP)
 
 * Class 1: In-class Supplementary Exercise 1: Behavior Driven Development
   * Prerequisite: Behavior Driven Development Lecture

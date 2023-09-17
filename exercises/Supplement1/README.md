@@ -20,7 +20,7 @@ Fall Semester 2023 - Supplementary Exercise 1
 
 * DUE: September 22 (Friday), 2023 11:59 PM 
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/XPW7ISdK
 
 ## Description
 

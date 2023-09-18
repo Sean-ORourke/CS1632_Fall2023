@@ -31,7 +31,7 @@ Software Quality Assurance - Fall 2023
 
 **Grading TA Information:**
 
-  * Name: TBD
+  * Name: Sina Malakouti (sem238 at pitt dot edu)
   * Primary mode of communication: "Regrade Request" on GradeScope
   * Secondary mode of communication: Chat on Microsoft Teams
   

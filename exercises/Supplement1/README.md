@@ -296,7 +296,7 @@ submitting member must use the "View or edit group" link at the top-right
 corner of the assignment page after submission to add his/her partner.  
 
 Submit the repository created by GitHub Classroom for your team to GradeScope
-at the **Supplementary Exercise 2 GitHub** link.  Once you submit, GradeScope
+at the **Supplementary Exercise 1 GitHub** link.  Once you submit, GradeScope
 will run the autograder to grade you and give feedback.  If you get deductions,
 fix your code based on the feedback and resubmit.  Repeat until you don't get
 deductions.

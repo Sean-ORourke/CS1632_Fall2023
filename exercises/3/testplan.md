@@ -9,8 +9,9 @@ TEST CASE: Check that title of the home page is "Department of Computer Science 
 PRECONDITIONS: None.
 EXECUTION STEPS: None.
 1. Open the URL https://cs.pitt.edu/ on the web browser.
-POSTCONDITIONS: The title of the page is "Department of Computer Science | University of Pittsburgh"
-   (use **assert title" command).
+POSTCONDITIONS:
+* The title of the page is "Department of Computer Science | University of Pittsburgh"
+  (use **assert title" command).
 ```
 
 ```
@@ -20,8 +21,8 @@ PRECONDITIONS: None.
 EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
-1. A menu item with the text "GIVE" is present on the page
-   (use **assert element present** command).
+* A menu item with the text "GIVE" is present on the page
+  (use **assert element present** command).
 ```
 
 ```
@@ -31,8 +32,8 @@ PRECONDITIONS: None.
 EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
-1. The menu item with the text "GIVE" has an href attribute with the value "https://giveto.pitt.edu/giveSCI" 
-   (use **store attribute** command followed by a **assert** command).
+* The menu item with the text "GIVE" has an href attribute with the value "https://giveto.pitt.edu/giveSCI" 
+  (use **store attribute** command followed by a **assert** command).
 ```
 
 ```
@@ -44,6 +45,6 @@ EXECUTION STEPS:
 2. Click on the "Research" menu.
 3. Click on the "Research Areas" link in the next page.
 POSTCONDITIONS: 
-1. The fifth div element in the research areas list contains the text "Computer Vision"
-   (use **assert text** command).
+* The fifth div element in the research areas list contains the text "Computer Vision"
+  (use **assert text** command).
 ```

@@ -11,7 +11,7 @@ EXECUTION STEPS: None.
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS:
 * The title of the page is "Department of Computer Science | University of Pittsburgh"
-  (use "assert title" command).
+  (Use "assert title" command.)
 ```
 
 ```
@@ -21,8 +21,8 @@ PRECONDITIONS: None.
 EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
-* A menu item with the text "GIVE" is present on the page
-  (use "assert element present" command).
+* A menu item with the text "GIVE" is present on the page.
+  (Use "assert element present" command on locator with "GIVE" string.)
 ```
 
 ```
@@ -32,8 +32,8 @@ PRECONDITIONS: None.
 EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
-* The menu item with the text "GIVE" has an href attribute with the value "https://giveto.pitt.edu/giveSCI" 
-  (use "store attribute" command followed by "assert" command).
+* The menu item with the text "GIVE" has an href attribute with the value "https://giveto.pitt.edu/giveSCI".
+  (Use "store attribute" command followed by "assert" command.)
 ```
 
 ```
@@ -45,6 +45,34 @@ EXECUTION STEPS:
 2. Click on the "Research" menu.
 3. Click on the "Research Areas" link in the next page.
 POSTCONDITIONS: 
-* The fifth div element in the research areas list contains the text "Computer Vision"
-  (use "assert text" command).
+* The fifth div element in the research areas list contains the text "Computer Vision".
+  (Use "assert text" command on xpath that contains div[5].)
+```
+
+```
+IDENTIFIER: TEST-5-RESEARCH-AREA-COUNT
+TEST CASE: Check that there are 15 areas in the research areas page.
+PRECONDITIONS: None.
+EXECUTION STEPS:
+1. Open the URL https://cs.pitt.edu/ on the web browser.
+2. Click on the "Research" menu.
+3. Click on the "Research Areas" link in the next page.
+POSTCONDITIONS: 
+* There are exactly 15 div elements for the 15 research areas.
+  (Use "assert element present" for div[15] followed by "assert element not present" for div[16].)
+```
+
+```
+IDENTIFIER: TEST-6-SEARCH-CSC
+TEST CASE: Check that the second item when searching "csc" iis the CSC Officers page.
+PRECONDITIONS: None.
+EXECUTION STEPS:
+1. Open the URL https://cs.pitt.edu/ on the web browser.
+2. Click on the search icon.
+3. Type "csc" in the search box that pops up.
+4. Type [Enter] in the search box.
+POSTCONDITIONS: 
+* The second div element in the search results has the title:
+  "CSC Officers | Department of Computer Science | University of ...". 
+  (Use "assert text" for xpath containing div[2].) 
 ```

@@ -11,7 +11,7 @@ EXECUTION STEPS: None.
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS:
 * The title of the page is "Department of Computer Science | University of Pittsburgh"
-  (use **assert title" command).
+  (use "assert title" command).
 ```
 
 ```
@@ -22,7 +22,7 @@ EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
 * A menu item with the text "GIVE" is present on the page
-  (use **assert element present** command).
+  (use "assert element present" command).
 ```
 
 ```
@@ -33,7 +33,7 @@ EXECUTION STEPS:
 1. Open the URL https://cs.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
 * The menu item with the text "GIVE" has an href attribute with the value "https://giveto.pitt.edu/giveSCI" 
-  (use **store attribute** command followed by a **assert** command).
+  (use "store attribute" command followed by "assert" command).
 ```
 
 ```
@@ -46,5 +46,5 @@ EXECUTION STEPS:
 3. Click on the "Research Areas" link in the next page.
 POSTCONDITIONS: 
 * The fifth div element in the research areas list contains the text "Computer Vision"
-  (use **assert text** command).
+  (use "assert text" command).
 ```

@@ -1,3 +1,25 @@
+- [CS 1632 - Software Quality Assurance](#cs-1632---software-quality-assurance)
+  * [Description](#description)
+  * [Prerequisites](#prerequisites)
+  * [Task 1: Write test cases](#task-1--write-test-cases)
+    + [Tips for Writing assertions for each Test](#tips-for-writing-assertions-for-each-test)
+    + [Other Tips when using Selenium](#other-tips-when-using-selenium)
+  * [Task 2: Add test cases to test suite and save project](#task-2--add-test-cases-to-test-suite-and-save-project)
+  * [Task 3: Export test suite to JUnit class](#task-3--export-test-suite-to-junit-class)
+    + [Why export to a JUnit class?](#why-export-to-a-junit-class-)
+    + [How to export to JUnit for Selenium IDE](#how-to-export-to-junit-for-selenium-ide)
+    + [Running the JUnit class](#running-the-junit-class)
+  * [Tips for JUnit + Selenium problem solving](#tips-for-junit---selenium-problem-solving)
+    + [How to deal with race conditions](#how-to-deal-with-race-conditions)
+    + [How to enforce uniform window sizes](#how-to-enforce-uniform-window-sizes)
+- [Submission](#submission)
+- [GradeScope Feedback](#gradescope-feedback)
+- [Groupwork Plan](#groupwork-plan)
+- [Resources](#resources)
+- [Extra Credit](#extra-credit)
+  * [Description](#description-1)
+  * [Submission](#submission-1)
+
 # CS 1632 - Software Quality Assurance
 
 * DUE: September 29 (Friday), 2023 11:59 PM

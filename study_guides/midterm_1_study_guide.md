@@ -8,7 +8,7 @@ practice the mechanics of taking an exam on GradeScope.  It is timed for 3
 hours just like a real exam.  But of course it is not going to be graded so no
 pressure. :)
 
-The midterm will cover everything up to and including Writing Testable Code.  I
+The midterm will cover everything up to and including Automated Web Systems Testing.  I
 recommend you review the slides and the textbook (See syllabus.md for which
 chapters are required reading.  The reading is also on the last slide of each
 lecture).  Going over the TopHat questions will be quite helpful too.  You are
@@ -72,18 +72,6 @@ need to apply a testing tool to a specific problem.**
 * **Be able to critique an example defect report on what problems it may have.**
   * Problems with preciseness and reproducibility.
 
-## BREAKING SOFTWARE
-* **Given buggy code, be able to recognize what the problem is and be able to categorize it.**
-  * Logic errors
-  * Null pointer errors
-  * Floating point / Rounding errors
-  * Integration errors
-  * Missing data errors
-  * Bad data errors
-  * Display errors
-  * I/O errors
-  * Configuration errors
-
 ## AUTOMATED TESTING
 * Be able to discuss in-depth of the pros and cons of automated testing.
   * Why automated testing can be brittle and narrow.
@@ -127,3 +115,4 @@ need to apply a testing tool to a specific problem.**
   HTML page is not desirable and how Selenium solves those problems.
 * Be able to explain why in Selenium, there is an option to select
   different locator strings for the same target element.
+* Be able to explain why race conditions occur and how to solve them.

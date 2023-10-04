@@ -8,7 +8,7 @@ practice the mechanics of taking an exam on GradeScope.  It is timed for 3
 hours just like a real exam.  But of course it is not going to be graded so no
 pressure. :)
 
-The midterm will cover everything up to and including Writing Testable Code.  I
+The midterm will cover everything up to and including Automated Web Systems Testing.  I
 recommend you review the slides and the textbook (See syllabus.md for which
 chapters are required reading.  The reading is also on the last slide of each
 lecture).  Going over the TopHat questions will be quite helpful too.  You are

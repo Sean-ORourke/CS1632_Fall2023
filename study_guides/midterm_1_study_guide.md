@@ -127,3 +127,4 @@ need to apply a testing tool to a specific problem.**
   HTML page is not desirable and how Selenium solves those problems.
 * Be able to explain why in Selenium, there is an option to select
   different locator strings for the same target element.
+* Be able to explain why race conditions occur and how to solve them.

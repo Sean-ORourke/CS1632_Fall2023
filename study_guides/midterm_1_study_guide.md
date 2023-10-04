@@ -72,18 +72,6 @@ need to apply a testing tool to a specific problem.**
 * **Be able to critique an example defect report on what problems it may have.**
   * Problems with preciseness and reproducibility.
 
-## BREAKING SOFTWARE
-* **Given buggy code, be able to recognize what the problem is and be able to categorize it.**
-  * Logic errors
-  * Null pointer errors
-  * Floating point / Rounding errors
-  * Integration errors
-  * Missing data errors
-  * Bad data errors
-  * Display errors
-  * I/O errors
-  * Configuration errors
-
 ## AUTOMATED TESTING
 * Be able to discuss in-depth of the pros and cons of automated testing.
   * Why automated testing can be brittle and narrow.

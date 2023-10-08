@@ -26,8 +26,21 @@ Let's start by downloading the VisualVM Java profiler from:
 https://visualvm.github.io/
 
 Please click on the download link at the top of the project page.  Keep the
-download running as you read the below instructions and install it when it
-is ready.
+download running as you read the below instructions and install it when it is
+ready.  The instasll package is just a ZIP file that you can decompress at a
+location of your choice.  Under it, there is a **bin/** directory and within it are
+the application binaries.  Try launching the app and if it does not run
+properly, please read the troubleshooting guide on the download webpage.  One common problem is that it complains that there is no compatible JDK found at launch.  Then, you may have to pass the **--jdkhome "<path to JDK>"** argument as instructed in the webpage, or more preferably, edit the **etc/visualvm.conf** file found in the installation to uncomment the line:
+
+```
+#visualvm_jdkhome=<path to JDK>
+```
+
+and replace the \<path to JDK\> with your actual path.  In my machine, the correct setting was:
+
+```
+visualvm_jdkhome="C:\Program Files\Eclipse Adoptium\jdk-8.0.372.7-hotspot"
+```
 
 ## Description
 

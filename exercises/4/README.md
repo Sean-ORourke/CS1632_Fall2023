@@ -32,9 +32,10 @@ location of your choice.  Under it, there is a **bin/** directory and within it
 are the application binaries.  Try launching the app and if it does not run
 properly, please read the troubleshooting guide on the download webpage.  One
 common problem is that it complains that there is no compatible JDK found at
-launch.  Then, you may have to pass the **--jdkhome "\<path to JDK\>"** argument
-as instructed in the webpage, or more preferably, edit the
-**etc/visualvm.conf** file found in the installation to uncomment the line:
+launch.  Then, you may have to pass the **--jdkhome "\<path to JDK\>"**
+argument as instructed in the webpage, or more preferably, edit the
+**etc/visualvm.conf** file found in the installation to uncomment the line, if
+you don't want to pass that argument every time:
 
 ```
 #visualvm_jdkhome=<path to JDK>

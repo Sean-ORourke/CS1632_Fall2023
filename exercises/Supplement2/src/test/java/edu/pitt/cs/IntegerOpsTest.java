@@ -25,10 +25,6 @@ public class IntegerOpsTest {
 	 */
 	@Property(trials = 1000)
 	public void testAdd(int x, int y) {
-		// System.out.println("testAdd x='" + x + "', y='" + y + "'");
-
-		// TODO: Fill in.
-
 		/*
 		 * You may be tempted to put an if statement here, but an if statement in a test
 		 * case is always a code smell. The fact that you are performing different
@@ -42,6 +38,10 @@ public class IntegerOpsTest {
 		 * 
 		 * Please read the above URL to constain x, y values so that they are >= 0.
 		 */
+
+		 // System.out.println("testAdd x='" + x + "', y='" + y + "'");
+
+		 // TODO: Fill in.
 	}
 
 	/**
@@ -56,10 +56,6 @@ public class IntegerOpsTest {
 	 */
 	@Property(trials = 1000)
 	public void testSubtract(int x, int y) {
-		// System.out.println("testSubtract x='" + x + "', y='" + y + "'");
-
-		// TODO: Fill in.
-
 		/*
 		 * In this case, you cannot use the @InRange annotation since the constraint
 		 * involves multiple parameters. There is no way to generate (x, y) tuples that
@@ -75,6 +71,10 @@ public class IntegerOpsTest {
 		 * Using assumeThat will not constrain value generation, but will constrain
 		 * values that reach the test case.
 		 */
+
+		 // System.out.println("testSubtract x='" + x + "', y='" + y + "'");
+
+		 // TODO: Fill in.
 	}
 
 }

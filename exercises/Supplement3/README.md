@@ -21,7 +21,7 @@ Fall Semester 2023 - Supplementary Exercise 3
 
 DUE: October 27 (Friday), 2023 11:30 AM
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/Lkc1BA4k
 
 ## Description
 

@@ -118,8 +118,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 14 (Week of 27 NOV)
 
 * November 27 (Monday) 9:30 AM - 10:45 AM, 3:00 PM - 4:15 PM: Sheetz Lecture on Security Testing
-  * Speaker 1: Jay Rhykerd, Chief Information Security Officer (CISO), [LinkedIn](https://www.linkedin.com/in/jasonrhykerd/)
-  * Speaker 2: Tyler Smith, RISC Technologist, [LinkedIn](https://www.linkedin.com/in/tyler-smith-9b4b57167/)
+  * Speaker: Jay Rhykerd, Chief Information Security Officer (CISO), [LinkedIn](https://www.linkedin.com/in/jasonrhykerd/)
+  * Speaker: Tyler Smith, RISC Technologist, [LinkedIn](https://www.linkedin.com/in/tyler-smith-9b4b57167/)
   * 9:30 - 10:15 AM: 5313 Sennott Square, 3:00 PM - 4:15 PM: 305 IS Building
 * November 29 (Wednesday) 9:30 AM - 10:45 AM: PNC Lecture on QA at a Finance Institution
   * Speaker: Connetta Shringarpurey, Quality Engineering Director, [LinkedIn](https://www.linkedin.com/in/connetta-shringarpurey-a168155/)
